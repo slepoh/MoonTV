@@ -61,6 +61,7 @@
 ## 部署
 
 本项目**支持 Vercel、Docker 和 Cloudflare** 部署。
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2slepoh%2FMoonTV)  
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/slepoh/MoonTV)  
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/slepoh/MoonTV)
