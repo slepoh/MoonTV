@@ -73,6 +73,18 @@
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
     },
+    "xiaomaomi": {
+        "api": "https://zy.xmm.hk/api.php/provide/vod",
+        "name": "小猫咪资源"
+    },
+    "hwba": {
+        "api": "https://cjhwba.com/api.php/provide/vod",
+        "name": "华为吧资源"
+    },
+    "baidu": {
+        "api": "https://api.apibdzy.com/api.php/provide/vod",
+        "name": "百度云资源"
+    },
     "yzy": {  
         "api": "https://api.yparse.com/api/json",
         "name": "云资源"
@@ -99,7 +111,7 @@
     },
     "qqzy": {  
         "api": "https://www.qiqidys.com/api.php/provide/vod",
-        "name": '七七资源"
+        "name": "七七资源"
     },
     "yzzy": {  
         "api": "https://api.yzzy-api.com/inc/apijson.php",
